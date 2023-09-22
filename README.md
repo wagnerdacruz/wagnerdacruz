@@ -4,7 +4,7 @@ My name is Wagner da Cruz ⚽
 
 - Sou estudande do Colégio Estadual do Campo Alfredo Greipel Junior 🥇
 
-- Estudo na [alura](https://www.alura.com.br/) 🥈
+- Estudo na [Alura](https://www.alura.com.br/) 🥈
 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvoldivos 🥉
 
